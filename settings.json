@@ -8,7 +8,7 @@
   "server": {
     "ip": "SNMinecraft.play.hosting",
     "port": 54960,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -32,7 +32,7 @@
       "messages": [
         "Thank Travis",
         "Don't Grief!",
-        "I am a real person.!"
+        "I am a real person."
       ]
     },
     "chat-log": true,
