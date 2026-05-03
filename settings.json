@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SNMinecraft.play.hosting",
-    "port": 54960,
-    "version": "1.21.11"
+    "ip": "SNMinecraft.aternos.me",
+    "port": 64671,
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
